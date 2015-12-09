@@ -1,0 +1,7 @@
+---
+csl_lrs:
+  build: $PWD
+  name: learning_locker
+  ports:
+  - "443:443"
+
