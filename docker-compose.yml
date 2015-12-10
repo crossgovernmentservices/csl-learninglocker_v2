@@ -1,6 +1,6 @@
 ---
-csl_lrs:
-  build: $PWD
+learninglocker_v2:
+  image: djsd123/csl_lrs:v2
   name: learning_locker
   ports:
   - "443:443"
